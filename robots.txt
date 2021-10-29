@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://box-office-movie-review.github.io/movie/sitemap.xml
